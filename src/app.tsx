@@ -1,5 +1,5 @@
 import React from 'react';
-import Hero from './components/HeroSementara';
+import Hero from './components/Hero';
 import ExperienceList from './components/ExperienceList';
 import CertificationList from './components/CertificationList';
 import { portfolioData } from './data/portofolio';
